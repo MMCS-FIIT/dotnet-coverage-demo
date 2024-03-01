@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "App.sln",
+    "csharp.debug.console": "integratedTerminal",
+}
